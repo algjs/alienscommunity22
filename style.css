@@ -85,7 +85,7 @@ button:hover{
     .banner video{
         width: 100%;
         height: auto;
-        position: center;
+        font-size:12px ;
     }
 }
 
