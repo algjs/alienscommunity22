@@ -132,9 +132,16 @@ button:hover{
      
     }
 }
-@media (max-width:1300px){
-    .banner image{
-        position: 100vh;
+
+@media(max-width:1300px){
+    .banner video{ position: 100vh;
+        width: 550%;
+        height: auto;
+        right: 180;
+        bottom: 20;
+        left: -180%;
     }
-}    
+}
+
+
     .
