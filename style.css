@@ -82,12 +82,9 @@ button:hover{
     z-index: -1;
 }
 @media(min-aspect-ratio: 16/9){
-    .banner video{
-        width: 100%;
+    .banner video{ position: 100vh;
+        width: 50%;
         height: auto;
-        font-size:12px ;
-        down: 0;
-        high: 100;
     }
 }
 
@@ -110,7 +107,6 @@ button:hover{
      
     }
 }
-
 
 @media (max-width:641px){
     body{
@@ -142,6 +138,3 @@ button:hover{
         left: -180%;
     }
 }
-
-
-    .
