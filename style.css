@@ -87,7 +87,7 @@ button:hover{
         height: auto;
         font-size:12px ;
         down: 0;
-        high:  0;
+        high: 100;
     }
 }
 
